@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sal+👋;Discord+Bot+Developer+🤖;Full-Stack+Python+Expert+🐍" alt="Typing SVG" />
-
+  <h1>✨ Sal | ByteSal ✨</h1>
+  <p>🚀 <code><b>Discord Bot Developer</b></code> • <code><b>Full-Stack Python Expert</b></code> 🚀</p>
+  
   <p><strong>Full-Stack Developer | Python & Web Specialist</strong></p>
   <p>Passionate about building clean, efficient applications and managing cloud infrastructure.</p>
   
