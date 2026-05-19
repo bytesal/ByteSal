@@ -5,7 +5,7 @@
   <p><strong>Full-Stack Developer | Python & Web Specialist</strong></p>
   <p>Passionate about building clean, efficient applications and managing cloud infrastructure.</p>
   
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/users/1503347550122410065" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <img src="https://img.shields.io/badge/Discord_Bot_Developer-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot Developer" />
